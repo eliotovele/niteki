@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Mochila Fjallraven - Foldsack No. 1, para laptops de 15 polegadas",
+      "price": 179.9,
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL.AC_SL1500.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Camisetas Masculinas Casuais Slim Fit Premium",
+      "price": 139.9,
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY.UY.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Jaqueta de Algodão Masculina",
+      "price": 219.9,
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL.AC_UX679.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Roupa Casual Masculina Slim Fit",
+      "price": 139.9,
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL.AC_UY879.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Pulseira de Corrente John Hardy Women's Legends Naga Gold & Silver Dragon",
+      "price": 219.9,
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL.AC_UL640_QL65_ML3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Anel Solid Gold Petite Micropave",
+      "price": 179.9,
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL.AC_UL640_QL65_ML3.jpg"
+    }
+  ]
+}
