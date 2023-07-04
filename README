@@ -1,0 +1,31 @@
+## Instruções de inicializacao
+
+Clonar o projeto
+
+```bash
+  git clone https://github.com/eliotovele/niteki.git
+```
+
+Ir para o diretório do projeto
+
+```bash
+  cd niteki
+```
+
+Instale as dependências usando um dos comandos
+
+```bash
+  npm install || yarn install || pnpm install
+```
+
+Inicie o servidor usando um dos comandos
+
+```bash
+  npm run dev || yarn dev || pnpm dev
+```
+
+Visualize o projeto
+
+```bash
+  http://localhost:5173 ou no endereço indicado no seu terminal
+```
